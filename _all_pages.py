@@ -1,5 +1,5 @@
 all_pages = ["""
-<html id="XF" lang="en-US" dir="LTR" data-app="public" data-template="thread_view" data-container-key="node-4" data-content-key="thread-150342" data-logged-in="false" data-cookie-prefix="cdx_" data-csrf="1718680689,51b8cb89e31dccc8df8dcc6dd8b5ae4c" class="has-js template-thread_view has-no-touchevents has-passiveeventlisteners has-hiddenscroll has-overflowanchor has-no-displaymodestandalone has-os-linux has-browser-mozilla"><head>
+<html id="XF" lang="en-US" dir="LTR" data-app="public" data-template="thread_view" data-container-key="node-4" data-content-key="thread-150342" data-logged-in="false" data-cookie-prefix="cdx_" data-csrf="1718763342,a01d1432dcb747df62c3b381432963bb" class="has-js template-thread_view has-no-touchevents has-passiveeventlisteners has-hiddenscroll has-overflowanchor has-no-displaymodestandalone has-os-linux has-browser-mozilla"><head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -746,12 +746,12 @@ Some of you might have noticed that it's hard to find short reviews of games on 
 				 <div class="samCodeUnit" data-position="container_content_above"> <div class="samItem"> <div class="extrasOverContentBanner"> <script type="text/javascript"><!--
     e9 = new Object();
     e9.size = "970x250,728x90";
-//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/sorcerersplace/forums2/tags.js"></script><script type="text/javascript" src="https://s.tribalfusion.com/displayAd.js?dver=0.9&amp;th=11383941900"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=970x250,728x90&amp;env=display&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=608849&amp;tKey=aWmneM1t3ImWTM4AQP4s7dXUUVQAgv83&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=608249"></script><script language="Javascript">
+//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/sorcerersplace/forums2/tags.js"></script><script type="text/javascript" src="https://s.tribalfusion.com/displayAd.js?dver=0.9&amp;th=11383941900"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=970x250,728x90&amp;env=display&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=3258102&amp;tKey=aRmneMpdrB2aYe2tym3mjZcMGvOPowblD&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=3264640"></script><script language="Javascript">
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=23350;
 document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23350&amp;script=1&amp;rnd=341984"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23350&amp;subpoolid=0&amp;campaignid=490875&amp;creativeid=1373018&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="728" height="90" src="https://ssl.cdne.cpmstar.com/cached/creatives/1373018/hw_dungeonrooms33b_h_en_30-1_728x90.jpg"></a>
-<iframe src="https://s.tribalfusion.com/p.media?clickID=avmX9qWHbWoAnJnGYtpWbA5Eri3d6t4PBGmFMJYGr0YsJY0cJxpTJQ2FnWVFbZcW6fVPTMYScYOSdZbO1tvwTPrM2VrYXFUDV6Pw56ZbbQmMA4W3p0trKnt6o5PBR3svcTcvjWcB6SmQoUWFSWbF03betUqvtVTB9SEQZdRVQIRr6vRt7dUVQ55U2pnHIsYTev2WbESGBH4mrFpWiqTt7eYFfk1UY9XaeXRUJZbomu2toe4VrP8nA62MBaY19EAv76mUF6Px6mBWHMXyprwEFgceS&amp;mediaDataID=5436426&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=awmXSo2Fuqodiq0amw2drGSGBB5mMZbpd6yUdJcYbrkYFUi0EEtPbvCTFrXVtYWmUYvPFjs1EQN3EZbk4a7PoajGYU7bUWfXoPUBms7tpWfD5Eng3dan4AFGnFbZd0GMVYcrV0GFpmqj43bFRTUJEWAU1REn5QcFnSdFO0tvoT6Mp2GB40UvDUPTo46F6QAMA2dZbqXWrLnd6m4PrQ5V3fUGJjUcM8PPYWUWF3oPE5y6MnnqiLnnqBpb2MqSm8s6ARwDeJpVb52GyAR8jN50&amp;mediaDataID=6530936&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=axmWoIVmqr2PU8PAJI3tFsXWQLmWeN3PvY4GrdUcUjWsnjRmruWdrRTbJ13bIuWTbxVEQdSTUHQGJIPruxPtn8WsQS4UmxotIOYEeN3tbFSG7E4P3ZboHayTdQ60bM8YUf90aIOSF3ZbUbB3Tdn3mrbqRU7mYEZbm3EFk5a7XoTbIYFU8WHJXm6YLnGQopdfD3qZbg5tEr5AFEmFQZaXcYYXGFVXGvnpTbx3bF2n6IBsFA3sEaesRqSOoZaWYtvu0SvI8GJLt9&amp;mediaDataID=2713736&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aymX9qoAnZcpGvpmWvE5TBe5tAo3PZbInb3EYsnWXcYV0VrNnqJT5UrSWUFFWArTPajSQsUrStBtYd7oV6bn4GQ1XrvZdT6Pw2AneQPMH3HZbrXWMJndPN46MY5Gj7Vc37WcZb8RPvmTHQ3UFM45raoWqYsTT37QTJJQGBIQrupPHviWcbT2FTxndAoYaTn3HbFQsrH2mMZaodaNUdb9XFYjXrY9XaqMPbUeUbBSnRmXQmmosUqLyPyqN7Zaj0SmsWQygyaIntRXmoAfBMrMBDCDiRX&amp;mediaDataID=7665496&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aMmYSwodim0qmx3HMASV7F2mBZcpWeqUWfhYUn9XUF90quoRFvHWUn2WdM2mrFxPrMyYT3q3TBc2qvXmTMK1FFdUdJTmPQBpV3wptfE2TZbh5tZan3mjZdpFYEXsfQ1cQ00GJnnTF22rQ2VrnAUPY4PEQ4ScYpQt3vYdfoW6bv4sYUXbZbIVmXw2AUdRPnD3tZbr0dBLpdev56M14GY8TGvkVGM8PPFoWdYuUFMPwAbtsnZammTItn76KW7eBqmrSr8PCS7qxvA7YUsfdw7Zb14dbZd3rfto38A5b&amp;mediaDataID=9148826&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aNmW0L2PUdR6bB2WUyXdrJpd6w5An14sUgUVQ6Vc78RAJMUHrWWrZb52repWqvvVqBjQEYZbQVFARb6pRH7kUcrQ4bTtmtAO0aTp3WbCPVrG2mYZcptPsUtjhXUfb1UZbl0aEMRbrZdTrUSVHJYobfnPUBn1EQo5T3e2qnXnTMC1rZbfUtMSoA3BmsMqpdvL2aZbh3Hmr3AZbZbnrYGYs3RYGrU1cvnpTv45UYvVrnZcmbX1nBEXtcZaBsoqYyCBSwrX64sBUTcQuPjDrai&amp;mediaDataID=4056396&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aOmYDNpGvrmHnA5T3j3dEt3ArZamUYZcYsQ0XV311GbnnErQ3rrVTFBBVPU5PErQQGFOQdZbMYtjwTmMv2sBW0b3ZbTPXs4AMeRmBK3dZbo1HBKpd6w5PMV5VQgTVJcUcfkRProUdv5TUfP3U2sUaUpVTM6STULSVYZcRbepSH7cUVM54r6modAO0Eqx4t3CPcrG4AJZamditTWjfYU3cYrf61EqMPbJZbWU3sVHJWWPeqnPTtOEEDxB2DynIsQ7qiNRm7pRZaxQnqvVDA0TRQ8rAEEvtmN3DbMQwem04&amp;mediaDataID=8039566&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aPmX1p0qmy4dMEPcMH4m3ZcmdipVHf9YUQkXbBk1aeMRrFCUrnYTtvXnbbmPU7NYaZbN5EZbi2arPoEbCYrUhWtjVm63ZbnVjwmWUJ2qZbi2dmq3AfEmrnKXcU0YVF3XGjMnTJ43Uv4WbbZcWm70RT31QcvoStBx1tnqTmrv3sB50UUDTAin2PveQAjF3WUt1tBKnW2v36rR5sQeUVMbWGZb7SmFoWdF3Wr7r3U2umQTstQectTAOs9IJvDZaRNCAInSin0pnvWCaO0qeIuQ3qwo&amp;mediaDataID=6347136&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aQmXxnR6bF4WUm0dZbLmtix36vU4G77UsnjVVblSPYoUtJRUUZb05bitVaYoVT3lQqJHSGJKRrixPWvcWVb32rmrmHApXTqp4tYZdPsrB56JZbmdImUWj8XbUkYrUlXTEOPUJBUUQ3WtvWmU7pQUrsXqZbn5qUl2aYPnEbAXUffUdFPoPYDnGvsmHnJ3TZbg5tiN46vImbUHXGUW1c33XGbnmqbV2bZbSWb7HVAjYREbQScZbMQGnNYtu3pqXOxoTr0RTiprvT2PZbe2S7nATwWhI&amp;mediaDataID=5578346&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23350&amp;script=1&amp;rnd=21525"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23350&amp;subpoolid=0&amp;campaignid=485949&amp;creativeid=1358702&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="728" height="90" src="https://ssl.cdne.cpmstar.com/cached/creatives/1358702/728x90_1_1.png"></a>
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aPmX9q0qmy4dMHQGZbB56FZcmd6nTHB8YrQkXbBk1aeMRrFCUrnYTtvXnbbmPU7NYaZbN5EZbi2arPoEbCYrU9UWb1m6nJpVfmmH7G5En72WIN5PvZcmrnJXVnU1cYV0svumTfR5U35VbZbHUAMTPT34QsBoPHUO1HnrV6Qx3sB50UUDTAin2PveQmBC3tns1tBKnW2v36rR5sY9TGvkVsnhRPFoWdF3Wr7r3U2umQTstQectTA2oDE6qmY2VmmImSaMxTM9RoQW0qepPTvqLZaqr3J&amp;mediaDataID=5436426&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aQmXSoR6bF4WUqXHYJndZax36rT4sY6UcnjVVblSPYoUtJRUUZb05bitVaYoVTYlQqJHSGJKRrixPWvcWVbU4UuumHit0a6w4djASGJZa5PnHotXpTdJ8YUY71UF90TqqSbYBWUYPVWr4orZbxPFZbnYTJp4aUk4Tf5mTJAXrU9WHbXmmfKpGUwpdQB3qFf2Wmq5mvZbprQZdXG3SYGrU1VrunTv45UF2TFjhWm7Tt724m9iqttTHyREVqQuLxp6rNAreyqb5wPZbeR97n3wGIyX&amp;mediaDataID=6530936&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aRmYSwmHnG5EUf2Wen3PjZdprjZbYsYRXcMV1s7ymTb43FJSVbBEUAQ1QTQ0QcYMQW3t1d7mT6nn4cY5XUZbJT6qv4mU6RmrC4WFmXWMAmHao5mBV4G79TGF8Uc78R6FxTdUQWrbS3F6nUqnvVEn6QEZbKRcQIPFmqRHUaVVbU2FuxmWqq0q2p4tMASsvF5PJZboWXtVWb6Xb3dYrf61quqRbJZbWUBSTtUomFQxtmZanuBarvTTyNQA3q9ELMmXDo8ZasqtubVD6XWVqQOQeJ5tmNSpbMNHtCTo&amp;mediaDataID=9148826&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aSmW0L4dMASGjH4mQEmWirVWj9XFYiXU791TimSbUZbUFZb2VWv3or7qQFBrYEQy5q3c4qv0oTfK1bZb9UHMRmPnCncvomW7G5EFk5tZaN46BGnbbZaXcQXYsnYXGbnnavW2UUPTFfZbW633REvQQsroQdYw0HvoVPjN2sr3YUZbJVmqw46Zb9R6JK3dQn1tQCmH2u5PBR3sY7TcMaWGZb7SAJxUdF3WrMP5bA3WEjvnnm6mQ6ZarVPNtmYUroYHxDXZa2F6xyTeE3bZcwmy&amp;mediaDataID=4056396&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aUmX9q5EUk5tet3PfLpbfZb0GYV1snX0VBnma7S2UY2VUMBW6Q4REU4PsvsQtBr1WnwVmMx4sUW0FUJTmim4AUhPAbC4HFnXWJZdpd6o4AvY5cjbTGYkVcZbjPPYoUWFTTrj25bExWTQmTTUlQEvKSG3ZbQFupRtf7WVQW5F6nodiOXEeu4dQZdPGBB56rFpHXsTdQ60b3bYUjg0EENSrFEUUBSTtJWorZb4PbrNN7ypNQqjua6dUAEAuAZa6QmiyWFe9TWy8PRZa75EZb7QEiFI0pLLL&amp;mediaDataID=7665496&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aVmXhrSGjD2mQZbotirUtj80b3jXrZbi1TZaMSUQATU3SVdFXmU7nRUFnXTnt5TFa4EfPmEbA1rBhWWbRmAfLnVvvodnB5TFi5tun3AFGmU3EXVfUYVMX1VjNpTb43bFUWF7CUAvWPaYXScQMQdjw1drtWPbv2GJXXUvLUmim2PUePPMB4WvO1tnKptiM4ABS5Gj7VcMcWcJhRmrnTtJTUrMP5b2uUqn2VaJlsnuKoSmLsrv8pRqKpCXMwEMDW8U5N7PXq9igrGrZa2pUygxx6oO&amp;mediaDataID=6719746&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aWmWoIXWYZdpdEu5Ar14Vb9VcYcVVJkP6MoTW3PTr7P3rPtWT3pTTv6PErZcSVFCPUmxRWvaUVn32UunmdqrXamm2HMHSVMA2mBImdayUtfhXrfdYUZbg0q6oPbUZbUbB0WtY1orJuPrJt1EYy5Ejh4qj3naMCYF3aUHJPnAfLpGvwotfC5Ev73WAq5AJZcmUbZcXsfQ1cn30GZbunqJ32FJUVFnZcUA7TREvqQVZbMsRiwwoXnm6aKxCuxsPT7VmiwR9QSg5bPgO&amp;mediaDataID=2713736&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aXmX1p5ten3A7ZbmUjZdXGMS1cnYXVBvmaB42b3QWFjZcWPj1PaU1ScMoPd7N1tjuVAjn2cY30UYBV6qm4PZb8PmbJ2tUtXHJDpdTM36MY4VUgTsJbUsZbhSAQMWdY3UFMY2bZaqUqrwVqrcST3FSGfZbPbqsSt7cWcjR4FTpndqr0qmp2WbESGBZa5PYIpdAqUtQ7XUfb1Uje0aAqRFvZcTFZb0VtJWorQxRUf1YqFyunihO7A1VTyoyAZa8ynJp2FIbWDeTsnuLw7375tmFmXLF1Q&amp;mediaDataID=6347136&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aYmXxn2mQImdApTd36YrYd1U7l1TusSrnZbTbY4WtUWmb3qPrFq1Erp4E7l4arRmqrKYbZb7WHf0oPnLnG7moWnK3aUf5duy3AnJprYEYcQ0YsF41GJNnqfQ5UQ5WFMCUPjTQErYPsMnStBv1tJuVmfw3GUUXbZbJU6Pm26ndR6bB4Hvt1tQZapdEo5mBR3sngUGJ9VsZb7RPvOWd3VWr7P2FAmVTvmWTF7SaUZbQVQCRruvRsFdUVawxQ3tW9750pn2x8m7SGrZaRDUyEoFY1o&amp;mediaDataID=5578346&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
 
  </div> </div> </div> 
 
@@ -928,7 +928,7 @@ document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/vie
 
 		
 
-		<div class="message-avatar message-avatar--online">
+		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
 					<a href="/forums/members/behold_a_man.31509/" class="avatar avatar--m" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId3">
@@ -936,12 +936,10 @@ document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/vie
 		</a>
 				
 				
-					<span class="message-avatar-online" tabindex="0" data-xf-init="tooltip" data-trigger="auto" data-original-title="Online now" aria-label="Online now" id="js-XFUniqueId4"></span>
-				
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId5"><span itemprop="name">behold_a_man</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId4"><span itemprop="name">behold_a_man</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">Educated</h5>
 			
@@ -1064,13 +1062,13 @@ document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/vie
    e9 = new Object();
    e9.size = "300x250";
    e9.addBlockingCategories="Pop-under,Pop-up";
-//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/SorcerersPlace/Forums2/tags.js"></script><div align="center" id="richmedia_4"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=300x250&amp;env=display&amp;addBlockingCategories=Pop-under,Pop-up&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=608849&amp;tKey=aWmneM1t3ImWTM4AQP4s7dXUUVQAgv83&amp;a=3&amp;adContainerId=richmedia_4&amp;rnd=615480"></script><script language="Javascript">
+//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/SorcerersPlace/Forums2/tags.js"></script><div align="center" id="richmedia_4"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=300x250&amp;env=display&amp;addBlockingCategories=Pop-under,Pop-up&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=3258102&amp;tKey=aRmneMpdrB2aYe2tym3mjZcMGvOPowblD&amp;a=3&amp;adContainerId=richmedia_4&amp;rnd=3268553"></script><script language="Javascript">
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=23351;
 document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23351&amp;script=1&amp;rnd=455870"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23351&amp;subpoolid=0&amp;campaignid=491781&amp;creativeid=1378095&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="300" height="250" src="https://ssl.cdne.cpmstar.com/cached/creatives/1378095/300x250.jpg"></a>
-<iframe src="https://s.tribalfusion.com/p.media?clickID=aOmXhrpGvrmHnD3Tve2WZat3AZbFmUnLYsQ0XV311GbnnErQ3rrVTFBBVPj5RqMQQGFOQdZbMYtjwTmMv2sBW0b3ZbTP6p2AveRmBK3dZbo1HBKpd6v4mvW5VQgTVJcUcfkRProUdv5TUfP3U2sUaUpVTM6STULSVYZcRbepSH7cUVM54r6modAOYTXv4tUAPcrG4AJZamditTWjfYU3cYrf61EqMPbJZbWU3sVHJWWPeqnPTtOEEdNBACwm2mTU6mNmqJpRFpXE6aUG7wmEro8oBX0L&amp;mediaDataID=6719746&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aPmXSo0qmy4dMESV7A26FZcmdinVHJcYbQkXbBk1aeMRrFCUrnYTtvXnb3mRbjNYaZbN5EZbi2arPoEbCYrUhWtjVm6bIpVQwmWUJ2qZbi2dmq3AFZbnb3J0VU0YVF3XGjMnTJ43Uv4WbbZcWm70RT31QcvoStBx1tnqTmrv3sB50UUDTAin2PveQAFF3trM1tBKnW2v36rR5sQeUVMbWGZb7SmFoWdF3Wr7r3U2umQTstQectTAnp9edwEbBrCAZanD3qsBf4TdqO0tqIUgRmZbm&amp;mediaDataID=6546596&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
-<iframe src="https://s.tribalfusion.com/p.media?clickID=aQmVgFR6bF4WUr0trLmdax36r14Gb7TsnjVVblSPYoUtJRUUZb05bitVa7oTaUlQqJHSGJKRrixPWvcWVb32rmrmHus0aap4tYZdPsrB56JZbmdatUWBcYUUkYbYeXa6nRbvZbUUMQWW3WmFQrRFZbqYEnp3TBg4af4oEjCXrU9WHbXmmfKpGUwpdbC2Eni2Wmq5mvZbprQZdXGUXXVn40cJomqv45UF2TFjhWm7Tt724m9iqttTFxSAxT6bpPF3kSX2usK&amp;mediaDataID=6807466&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23351&amp;script=1&amp;rnd=214707"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23351&amp;subpoolid=0&amp;campaignid=491781&amp;creativeid=1383382&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="300" height="250" src="https://ssl.cdne.cpmstar.com/cached/creatives/1383382/300_250.jpg"></a>
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aXmYDN5ten3A7ZdpbrIXV3S1cJ21cFxmaB42b3QWFjZcWPj1PaU1ScMoPdYNYH7uVAjn2cY30UYBV6qm4PZb8PmbJ2tUn1tMIpdTM36MY4VUgTsJ8Wc7jS6QMWdY3UFMY2bZaqUqrwVqrcST3FSGfZbPbqsSt7cWcjR4FTpndqr0qmp2WbESGBZa2AUZdmt6nUtQ7XUfb1Uje0aAqRFvZcTFZb0VtJWorQxRUf1YqFyunihO7A1VTytM62ZctRTyQr6bV7EoTRXgyrPYwoQ4vUBjYni7yGf01bYjT9QjZcP&amp;mediaDataID=8039566&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aYmXSo2mQImdAtVHFd0rbd1UjkXqimSbnZbTbY4WtUWmb3qPrFq1Erp4EYl2TvRmqrKYbZb7WHf0oPnLnG7moWnK3aUl2WZan3AnJprYEYcQ0YsFY0s7OmqnQ5UY2VrnHVAnXREMRQGnqStJr1dBtVmfy3GB5XbFZcTmXo5PZb8R6bK2dZbqXWrAmHaM4Av14Vj6TVJcUcJfRPnxUHr4TbnY3b2uUqjvTTUKQaBFqpeZbnmYmqH6Xt92wqqMDW8U5N7PXq9igrGrZa2pUyP6Ut7n&amp;mediaDataID=6546596&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe src="https://s.tribalfusion.com/p.media?clickID=a0mVgFpdEM36YS5VY7UcnaUcJ6S6ZbvUtM3TFb32bAuWa7sVqvbSTnKRG3JRFavRdfkWGMW2FqvotirXqev2tMZaQcjC5PrJmdPpVWjhYFQkYFYi0TErSFrCWU3SVHJ4nrBtRUjMYavr3TJa4qY3mEnHXFU9UtrUmA3JmG7mmHnJ3qZbg5tEN46rZbmrYJYcfPYVF3XGZbwnTZbW3rr5WUMHWA7TREbQScQXQHUryRAttbEwwsAbunqAVmiwR9QSYPZabRn&amp;mediaDataID=6807466&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
  </div> </div> </div> 
 <div class="bbWrapper"><b>Idea</b><br>
 Some of you <a href="https://rpgcodex.net/forums/threads/rpg-codexs-best-rpgs-2024-voting-is-closed.150010/page-22#post-8988410" class="link link--internal">might have noticed</a> that it's hard to find short reviews of games on the codex. I always wanted to see some observations made by codexians about games, produced in a systematic, parseable fashion without time constraints. I guess I can produce a proper environment for that purpose. The aim is to get reviews, ratings, notes, tags, and so on about games without much hassle on my side (perhaps even automating the process fully). After gathering some reviews, I intend to create a script for scraping reviews from this thread and write some Jupyter notebooks with easily viewable, properly parsed data, probably using the pandas package.<br>
@@ -1130,7 +1128,7 @@ It boils down to this simple script you can run if you can run Python:<br>
 
 
 <div class="bbCodeSpoiler">
-	<button type="button" class="bbCodeSpoiler-button button--longText button" data-xf-click="toggle" data-xf-init="tooltip" data-original-title="Click to reveal or hide spoiler" id="js-XFUniqueId6"><span class="button-text">
+	<button type="button" class="bbCodeSpoiler-button button--longText button" data-xf-click="toggle" data-xf-init="tooltip" data-original-title="Click to reveal or hide spoiler" id="js-XFUniqueId5"><span class="button-text">
 		<span>
 			
 				<span class="bbCodeSpoiler-button-title">script</span>
@@ -1216,7 +1214,7 @@ If you notice an issue or have questions, doubts, or problems running the script
 	
 		<div class="message-lastEdit">
 			
-				Last edited: <time class="u-dt" dir="auto" datetime="2024-06-18T05:17:32+0200" data-time="1718680652" data-date-string="Jun 18, 2024" data-time-string="5:17 AM" title="Jun 18, 2024 at 5:17 AM" itemprop="dateModified">A moment ago</time>
+				Last edited: <time class="u-dt" dir="auto" datetime="2024-06-18T05:17:32+0200" data-time="1718680652" data-date-string="Jun 18, 2024" data-time-string="5:17 AM" title="Jun 18, 2024 at 5:17 AM" itemprop="dateModified">Yesterday at 5:17 AM</time>
 			
 		</div>
 	
@@ -1822,7 +1820,7 @@ If you notice an issue or have questions, doubts, or problems running the script
 		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
-					<a href="/forums/members/vitellus.31665/" class="avatar avatar--m" data-user-id="31665" data-xf-init="member-tooltip" id="js-XFUniqueId7">
+					<a href="/forums/members/vitellus.31665/" class="avatar avatar--m" data-user-id="31665" data-xf-init="member-tooltip" id="js-XFUniqueId6">
 			<img src="/forums/data/avatars/m/31/31665.jpg?1718164540" alt="vitellus" class="avatar-u31665-m" width="96" height="96" loading="lazy" itemprop="image"> 
 		</a>
 				
@@ -1830,7 +1828,7 @@ If you notice an issue or have questions, doubts, or problems running the script
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/vitellus.31665/" class="username " dir="auto" data-user-id="31665" data-xf-init="member-tooltip" id="js-XFUniqueId8"><span itemprop="name">vitellus</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/vitellus.31665/" class="username " dir="auto" data-user-id="31665" data-xf-init="member-tooltip" id="js-XFUniqueId7"><span itemprop="name">vitellus</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">the irascible</h5>
 			
@@ -2167,20 +2165,18 @@ If you notice an issue or have questions, doubts, or problems running the script
 
 		
 
-		<div class="message-avatar message-avatar--online">
+		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
-					<a href="/forums/members/behold_a_man.31509/" class="avatar avatar--m" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId9">
+					<a href="/forums/members/behold_a_man.31509/" class="avatar avatar--m" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId8">
 			<img src="/forums/data/avatars/m/31/31509.jpg?1694910135" alt="behold_a_man" class="avatar-u31509-m" width="96" height="96" loading="lazy" itemprop="image"> 
 		</a>
 				
 				
-					<span class="message-avatar-online" tabindex="0" data-xf-init="tooltip" data-trigger="auto" data-original-title="Online now" aria-label="Online now" id="js-XFUniqueId10"></span>
-				
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId11"><span itemprop="name">behold_a_man</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId9"><span itemprop="name">behold_a_man</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">Educated</h5>
 			
@@ -2873,20 +2869,18 @@ Yes, for any post over here, that's the assumption. I intend to create a scraper
 
 		
 
-		<div class="message-avatar message-avatar--online">
+		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
-					<a href="/forums/members/behold_a_man.31509/" class="avatar avatar--m" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId12">
+					<a href="/forums/members/behold_a_man.31509/" class="avatar avatar--m" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId10">
 			<img src="/forums/data/avatars/m/31/31509.jpg?1694910135" alt="behold_a_man" class="avatar-u31509-m" width="96" height="96" loading="lazy" itemprop="image"> 
 		</a>
 				
 				
-					<span class="message-avatar-online" tabindex="0" data-xf-init="tooltip" data-trigger="auto" data-original-title="Online now" aria-label="Online now" id="js-XFUniqueId13"></span>
-				
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId14"><span itemprop="name">behold_a_man</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/behold_a_man.31509/" class="username " dir="auto" data-user-id="31509" data-xf-init="member-tooltip" id="js-XFUniqueId11"><span itemprop="name">behold_a_man</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">Educated</h5>
 			
@@ -3206,7 +3200,7 @@ I cleaned the notebook a bit, it should be easier to navigate now.</div>
 		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
-					<a href="/forums/members/late-bloomer.30728/" class="avatar avatar--m" data-user-id="30728" data-xf-init="member-tooltip" id="js-XFUniqueId15">
+					<a href="/forums/members/late-bloomer.30728/" class="avatar avatar--m" data-user-id="30728" data-xf-init="member-tooltip" id="js-XFUniqueId12">
 			<img src="/forums/data/avatars/m/30/30728.jpg?1693765352" alt="Late Bloomer" class="avatar-u30728-m" width="96" height="96" loading="lazy" itemprop="image"> 
 		</a>
 				
@@ -3214,7 +3208,7 @@ I cleaned the notebook a bit, it should be easier to navigate now.</div>
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/late-bloomer.30728/" class="username " dir="auto" data-user-id="30728" data-xf-init="member-tooltip" id="js-XFUniqueId16"><span itemprop="name">Late Bloomer</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/late-bloomer.30728/" class="username " dir="auto" data-user-id="30728" data-xf-init="member-tooltip" id="js-XFUniqueId13"><span itemprop="name">Late Bloomer</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">Scholar</h5>
 			
@@ -3237,7 +3231,7 @@ I cleaned the notebook a bit, it should be easier to navigate now.</div>
 					
 						<dl class="pairs pairs--justified">
 							<dt>Messages</dt>
-							<dd>3,158</dd>
+							<dd>3,164</dd>
 						</dl>
 					
 					
@@ -3516,7 +3510,7 @@ RATING: 9
 		<div class="message-avatar ">
 			<div class="message-avatar-wrapper">
 				
-					<a href="/forums/members/hag.28902/" class="avatar avatar--m" data-user-id="28902" data-xf-init="member-tooltip" id="js-XFUniqueId17">
+					<a href="/forums/members/hag.28902/" class="avatar avatar--m" data-user-id="28902" data-xf-init="member-tooltip" id="js-XFUniqueId14">
 			<img src="/forums/data/avatars/m/28/28902.jpg?1606301622" alt="Hag" class="avatar-u28902-m" width="96" height="96" loading="lazy" itemprop="image"> 
 		</a>
 				
@@ -3524,7 +3518,7 @@ RATING: 9
 			</div>
 		</div>
 		<div class="message-userDetails">
-			<h4 class="message-name"><a href="/forums/members/hag.28902/" class="username " dir="auto" data-user-id="28902" data-xf-init="member-tooltip" id="js-XFUniqueId18"><span itemprop="name">Hag</span></a></h4>
+			<h4 class="message-name"><a href="/forums/members/hag.28902/" class="username " dir="auto" data-user-id="28902" data-xf-init="member-tooltip" id="js-XFUniqueId15"><span itemprop="name">Hag</span></a></h4>
 			
 				<h5 class="userTitle userTitle message-userTitle" dir="auto">Arbiter</h5>
 			
@@ -3549,7 +3543,7 @@ RATING: 9
 					
 						<dl class="pairs pairs--justified">
 							<dt>Messages</dt>
-							<dd>1,810</dd>
+							<dd>1,811</dd>
 						</dl>
 					
 					
@@ -3695,11 +3689,11 @@ RATING: 9
  <div class="samCodeUnit" data-position="post_above_content_6"> <div class="samItem"> <div class="extrasOverContentBanner"> <script type="text/javascript"><!--
     e9 = new Object();
     e9.size = "970x250,728x90";
-//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/sorcerersplace/forums2/tags.js"></script><div align="center" id="richmedia_6"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=970x250,728x90&amp;env=display&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=608849&amp;tKey=aWmneM1t3ImWTM4AQP4s7dXUUVQAgv83&amp;a=5&amp;adContainerId=richmedia_6&amp;rnd=616349"></script><script language="Javascript">
+//--></script> <script type="text/javascript" src="//tags.expo9.exponential.com/tags/sorcerersplace/forums2/tags.js"></script><div align="center" id="richmedia_6"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.29&amp;th=11383941900&amp;tagKey=1467651814&amp;site=sorcerersplace&amp;adSpace=forums2&amp;center=1&amp;size=970x250,728x90&amp;env=display&amp;url=https%3A%2F%2Frpgcodex.net%2Fforums%2Fthreads%2Fa-repository-for-codexian-reviews.150342%2F&amp;f=0&amp;p=3258102&amp;tKey=aRmneMpdrB2aYe2tym3mjZcMGvOPowblD&amp;a=5&amp;adContainerId=richmedia_6&amp;rnd=3266414"></script><script language="Javascript">
 var cpmstar_rnd=Math.round(Math.random()*999999);
 var cpmstar_pid=23350;
 document.writeln("<SCR"+"IPT language='Javascript' src='//server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
-</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23350&amp;script=1&amp;rnd=291825"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23350&amp;subpoolid=0&amp;campaignid=485949&amp;creativeid=1358702&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="728" height="90" src="https://ssl.cdne.cpmstar.com/cached/creatives/1358702/728x90_1_1.png"></a>
+</script><script language="Javascript" src="//server.cpmstar.com/view.aspx?poolid=23350&amp;script=1&amp;rnd=180649"></script><a href="https://server.cpmstar.com/click.aspx?poolid=23350&amp;subpoolid=0&amp;campaignid=485949&amp;creativeid=1358703&amp;imptld=rpgcodex.net&amp;url=" target="_blank"><img border="0" width="728" height="90" src="https://ssl.cdne.cpmstar.com/cached/creatives/1358703/728x90_1_2.png"></a>
 </div>
  </div> </div> </div> 
 <div class="bbWrapper">Happy to contribute !<br>
@@ -4021,7 +4015,7 @@ var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
 					<ul class="p-footer-linkList">
 					
 						
-							<li><a href="/forums/misc/style" data-xf-click="overlay" data-xf-init="tooltip" rel="nofollow" data-original-title="Style chooser" id="js-XFUniqueId19">
+							<li><a href="/forums/misc/style" data-xf-click="overlay" data-xf-init="tooltip" rel="nofollow" data-original-title="Style chooser" id="js-XFUniqueId16">
 								<i class="fa--xf fas fa-paint-brush" aria-hidden="true"></i> Twiglard's Colour Edit -- Full width
 							</a></li>
 						
@@ -4112,7 +4106,7 @@ var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
 
 	<script>
 	XF.samViewCountMethod = "view";
-	XF.samServerTime = 1718680689;
+	XF.samServerTime = 1718763342;
 	XF.samItem = ".samItem";
 	XF.samCodeUnit = ".samCodeUnit";
 	XF.samBannerUnit = ".samBannerUnit";
@@ -4188,16 +4182,16 @@ jQuery.extend(XF.config, {
 				consented: ["optional","_third_party"]
 			},
 			cacheKey: '1f7fdb43293e0c43ade9f949eb6685e2',
-			csrf: '1718680689,51b8cb89e31dccc8df8dcc6dd8b5ae4c',
+			csrf: '1718763342,a01d1432dcb747df62c3b381432963bb',
 			js: {"\/forums\/js\/siropu\/aml\/core.min.js?_v=9ea0d7b0":true,"\/forums\/js\/xf\/code_block-compiled.js?_v=9ea0d7b0":true,"\/forums\/js\/sv\/contentratings\/rate.min.js?_v=9ea0d7b0":true,"\/forums\/js\/xf\/notice.min.js?_v=9ea0d7b0":true},
 			css: {"public:bb_code.less":true,"public:message.less":true,"public:notices.less":true,"public:siropu_ads_manager_ad.less":true,"public:sv_contentratings.less":true,"public:extra.less":true},
 			time: {
-				now: 1718680689,
-				today: 1718661600,
-				todayDow: 2,
-				tomorrow: 1718748000,
-				yesterday: 1718575200,
-				week: 1718143200
+				now: 1718763342,
+				today: 1718748000,
+				todayDow: 3,
+				tomorrow: 1718834400,
+				yesterday: 1718661600,
+				week: 1718229600
 			},
 			borderSizeFeature: '3px',
 			fontAwesomeWeight: 's',
@@ -4351,7 +4345,7 @@ jQuery.extend(XF.config, {
             {
                 "@type": "InteractionCounter",
                 "interactionType": "https://schema.org/ViewAction",
-                "userInteractionCount": 410
+                "userInteractionCount": 417
             },
             {
                 "@type": "InteractionCounter",

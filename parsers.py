@@ -23,7 +23,7 @@ def parse_entry(post):
                 if parts[0].isupper():
                     if last_part[0] is not None:
                         parsed_entry[last_part[0]] = last_part[1]
-                    last_part[1] = ''.join(parts[1:]) if len(parts)>1 else ''
+                    last_part[1] = ':'.join(parts[1:]) if len(parts)>1 else ''
                     last_part[0] = parts[0]
                 else:
                     last_part[1] += '\n' + line
